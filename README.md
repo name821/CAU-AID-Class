@@ -38,9 +38,8 @@ Ensure you have the following installed:
    ```bash
    python knn_iris_classsifier.py
    ```
-2.Enter the
-   ```
-3.view
-   ```
-4.input
-   ```
+2.Enter the.
+3.view.
+
+## Example
+
