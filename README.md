@@ -38,8 +38,24 @@ Ensure you have the following installed:
    ```bash
    python knn_iris_classsifier.py
    ```
-2.Enter the.
-3.view.
+2. Enter the.
+3. view.
+4. input
 
 ## Example
+## Console
+   ```bash
+   enter the
+   model
+   balanced
+   Enter
+   predicted
+   ```
+## Notes
+- Ensure
+- Modify
 
+## License
+this
+## Author
+Developed
