@@ -39,5 +39,8 @@ Ensure you have the following installed:
    python knn_iris_classsifier.py
    ```
 2.Enter the
+   ```
 3.view
+   ```
 4.input
+   ```
