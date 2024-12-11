@@ -32,3 +32,12 @@ Ensure you have the following installed:
    pip install pandas scikit-learn
    ```
 4. Ensure the `iris.csv` dataset is available in the project directory.
+
+## Usage
+1. Run the script:
+   ```bash
+   python knn_iris_classsifier.py
+   ```
+2.Enter the
+3.view
+4.input
